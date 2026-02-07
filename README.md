@@ -22,10 +22,9 @@ Meu nome é Lucas, e sou um entusiasta da tecnologia dando meus primeiros passos
 
 ### 📈 GitHub Stats
 
-<div align="center">
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kill0vs&show_icons=true&theme=tokyonight)](https://github.com/kill0vs)
 
-</div>
 
 ### 📫 Contato
 
